@@ -1,0 +1,47 @@
+{
+    "logo": "Logo",
+    "menu":[
+        {
+            "value":"Inicio",
+            "href":"https://youtube.com"
+        },
+        {
+            "value":"About",
+            "href":"#"
+        },
+        {
+            "value":"Work",
+            "href":"#"
+        },
+        {
+            "value":"Contact",
+            "href":"#"
+        }
+    ],
+    "paralax":{
+        "titulo": {
+            "nombre": "Starship",
+            "id": "text",
+            "value": "Explore",
+            "href" : "#sec"
+        },
+        "img": [
+            {
+                "src": "stars.png",
+                "id": "stars"
+            },
+            {
+                "src": "moon.png",
+                "id": "moon"
+            },
+            {
+                "src": "mountains_front.png",
+                "id": "mountains_front"
+            },
+            {
+                "src": "mountains_behind.png",
+                "id": "mountains_behind"
+            }
+        ]
+    }
+}
